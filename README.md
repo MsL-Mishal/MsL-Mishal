@@ -7,15 +7,15 @@
 </h2>
 
 <!-- About Me -->
-<h3 align="center">💻 Full-Stack Developer | 🎓 M.Tech in Computer & Information Science | 🧠 Life-long Learner</h3>
+<h3 align="center">💻 Full-Stack Developer | 🎓 M.Tech in Computer & Information Science | 🌱 Life-long Learner</h3>
 
 <div align="center">
 
 🚀 I’m currently diving deep into **Node.js**, **Express.js**, **React.js**, and **Next.js**  
 🔁 Working on mastering backend systems, API development, and full-stack architectures  
-🧱 Solid foundation in **Java**, with a strong grasp of **OOP concepts** and **DSA**  
-🧩 Adequate knowledge in **Python**, **C++**, and scripting with **TypeScript & JavaScript**  
-🛢️ Skilled in databases: **MySQL**, **PostgreSQL**, and **MongoDB**  
+💪 Solid foundation in **Java**, with a strong grasp of **OOP concepts** and **DSA**  
+💻 Adequate knowledge in **Python**, **C++**, and scripting with **TypeScript & JavaScript**  
+💾 Skilled in databases: **MySQL**, **PostgreSQL**, and **MongoDB**  
 🎓 Ex-Assistant Professor at **CUSAT**, where I mentored budding engineers  
 🌱 Always curious — currently exploring **cloud deployment** & **modern DevOps tools**  
 🎯 Goal: Become a **strong full-stack/backend developer** and eventually a **tech-savvy educator**  
@@ -32,6 +32,9 @@
   <a href="https://www.linkedin.com/in/mishal-k-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/MishalMsLz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 <!--   <a href="https://MsL-Mishal.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a> -->
@@ -39,7 +42,7 @@
 
 <!-- Skills -->
 <h2></h2>
-<h3 align="center">🧠 Tech Toolbox</h3>
+<h3 align="center">⚙️ Tech Toolbox</h3>
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,python,cpp" /></a>  
   <a href="#"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" /></a>
