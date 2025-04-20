@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <h2 align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=500&color=00C0A3&center=true&vCenter=true&random=false&width=700&height=70&lines=Hey!+I'm+Mishal+K+R+%F0%9F%91%8B;Software+Engineer+%7C+M.Tech+Graduate;Node.js+%7C+Express+%7C+React+%7C+Next.js+Dev;Passionate+Educator+%26+Backend+Enthusiast!" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00C0A3&center=true&vCenter=true&random=false&width=700&height=70&lines=Hey!+I'm+Mishal+K+R+%F0%9F%91%8B;Software+Engineer+%7C+M.Tech+Graduate;Node.js+%7C+Express+%7C+React+%7C+Next.js+Dev;Passionate+Educator+%26+Backend+Enthusiast!" /></a>
 </h2>
 
 <!-- About Me -->
