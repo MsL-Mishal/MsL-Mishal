@@ -44,8 +44,8 @@
 <h2></h2>
 <h3 align="center">⚙️ Tech Toolbox</h3>
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,mysql,java,python,cpp" /></a>  
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgres,tailwind" /></a>  
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,npm,vite,java,python,cpp,mysql,prisma,postman,vscode,docker" /></a>
 </div>
 
 <!-- GitHub Stats -->
