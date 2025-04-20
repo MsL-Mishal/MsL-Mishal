@@ -11,14 +11,22 @@
 
 <div align="center">
 
-🚀 I’m currently diving deep into **Node.js**, **Express.js**, **React.js**, and **Next.js**  
+🚀 I’m currently diving deep into **Node.js**, **Express.js**, **React.js**, and **Next.js** 
+
 🔁 Working on mastering backend systems, API development, and full-stack architectures  
+
 💪 Solid foundation in **Java**, with a strong grasp of **OOP concepts** and **DSA**  
+
 💻 Adequate knowledge in **Python**, **C++**, and scripting with **TypeScript & JavaScript**  
+
 💾 Skilled in databases: **MySQL**, **PostgreSQL**, and **MongoDB**  
+
 🎓 Ex-Assistant Professor at **CUSAT**, where I mentored budding engineers  
+
 🌱 Always curious — currently exploring **cloud deployment** & **modern DevOps tools**  
+
 🎯 Goal: Become a **strong full-stack/backend developer** and eventually a **tech-savvy educator**  
+
 🎉 Fun Fact: I write clean code faster than my coffee gets cold ☕💻
 
 </div>
