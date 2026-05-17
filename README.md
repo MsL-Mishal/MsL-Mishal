@@ -3,72 +3,100 @@
 
 <!-- Typing SVG -->
 <h2 align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00C0A3&center=true&vCenter=true&random=false&width=700&height=70&lines=Hey!+I'm+Mishal+K+R+%F0%9F%91%8B;Software+Engineer+%7C+M.Tech+Graduate;Node.js+%7C+Express+%7C+React+%7C+Next.js+Dev;Passionate+Developer+%26+Backend+Enthusiast!" /></a>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00C0A3&center=true&vCenter=true&width=900&height=70&lines=Hey!+I'm+Mishal+K+R+%F0%9F%91%8B;AI+Engineer+%7C+Software+Engineer;LLMs+%7C+RAG+%7C+Spring+Boot+%7C+React;Building+Scalable+AI-Powered+Applications" />
+  </a>
 </h2>
 
-<!-- About Me -->
-<h3 align="center">💻 Full-Stack Developer | 🎓 M.Tech in Computer & Information Science | 🌱 Life-long Learner</h3>
+<!-- About -->
+<h3 align="center">
+  🤖 AI Engineer | 💻 Full-Stack & Backend Developer | 🎓 Former Assistant Professor
+</h3>
 
 <div align="center">
 
-🚀 I’m currently diving deep into **Node.js**, **Express.js**, **React.js**, and **Next.js** 
+🚀 Building enterprise AI applications using **LLMs, RAG pipelines, embeddings, and vector databases**
 
-🔁 Working on mastering backend systems, API development, and full-stack architectures  
+⚙️ Experienced with **Java, Spring Boot, Apache Camel, Node.js, React.js, and Next.js**
 
-💪 Solid foundation in **Java**, with a strong grasp of **OOP concepts** and **DSA**  
+🧠 Working with **LangChain, Ollama, Azure AI Search, Azure Document Intelligence, ChromaDB, and FAISS**
 
-💻 Adequate knowledge in **Python**, **C++**, and scripting with **TypeScript & JavaScript**  
+☁️ Familiar with **Azure Container Apps, Azure Virtual Machines, Azure DevOps, Docker, and cloud-native workflows**
 
-💾 Skilled in databases: **MySQL**, **PostgreSQL**, and **MongoDB**  
+💾 Skilled in designing scalable systems using **PostgreSQL, MongoDB, MySQL, and Prisma ORM**
 
-🎓 Ex-Assistant Professor at **CUSAT**, where I mentored budding engineers  
+🎓 Former Assistant Professor at **CUSAT**, passionate about mentoring, problem-solving, and software engineering
 
-🌱 Always curious — currently exploring **cloud deployment** & **modern DevOps tools**  
+🌱 Interested in **Generative AI, backend architecture, intelligent systems, and scalable cloud applications**
 
-🎯 Goal: Become a **strong full-stack/backend developer** and eventually a **tech-savvy educator**  
-
-🎉 Fun Fact: I write clean code faster than my coffee gets cold ☕💻
+✨ Strong foundation in **Data Structures & Algorithms, OOP, REST APIs, and System Design**
 
 </div>
 
 <!-- Socials -->
 <h3 align="center">🌐 Let's Connect</h3>
+
 <div align="center"> 
   <a href="mailto:mishalrajeev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://www.linkedin.com/in/mishal-k-r/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://x.com/MishalMsLz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-<!--   <a href="https://MsL-Mishal.github.io/" target="_blank">
+
+  <a href="https://msl-mishal.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a> -->
+  </a>
 </div>
 
-<!-- Skills -->
+<!-- Tech Stack -->
 <h2></h2>
-<h3 align="center">⚙️ Tech Toolbox</h3>
-<div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,postgres,tailwind" /></a>  
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,npm,vite,java,python,cpp,mysql,prisma,postman,vscode,docker" /></a>
-</div>
+<h3 align="center">⚙️ Tech Stack</h3>
 
-<!-- GitHub Stats -->
-<!--
-  <h2></h2>
-  <h3 align="center">📊 GitHub at a Glance</h3>
-  <div align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mishalkr&show_icons=true&theme=tokyonight&hide_border=true" /></a><br/>
-    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mishalkr&theme=tokyonight&hide_border=true" /></a><br/>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalkr&layout=compact&theme=tokyonight&hide_border=true" /></a>
-  </div>
--->
+<div align="center">
+
+### 🤖 AI & GenAI
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_DBs-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ChromaDB-7E57C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure_AI_Search-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-1F3F1B?style=for-the-badge" />
+
+---
+
+### 💻 Backend & Full-Stack
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,typescript,javascript,python,fastapi,html,css,tailwind" />
+</a>
+
+---
+
+### 🗄️ Databases & Persistence
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+</a>
+
+---
+
+### ☁️ Cloud & Tools
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,postman,vscode" />
+</a>
+
+</div>
 
 <!-- Footer -->
 <h2></h2>
+
 <p align="center">
-  ✨ "Code with clarity. Build with purpose. Share with passion." ✨  
+  ✨ "Design intelligent systems. Build scalable solutions. Keep learning." ✨
 </p>
