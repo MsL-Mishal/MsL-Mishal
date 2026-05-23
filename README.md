@@ -62,14 +62,14 @@
 
 ### 🤖 AI & GenAI
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vector_DBs-1F6FEB?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-7E57C2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Azure_AI_Search-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-1F3F1B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
 
 ---
 
