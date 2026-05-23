@@ -75,7 +75,7 @@
 
 ### 💻 Backend & Full-Stack
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,typescript,javascript,python,fastapi,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,nextjs,typescript,javascript,python,fastapi,html,css,tailwind,npm,pnpm,vite,redux" />
 </a>
 
 ---
