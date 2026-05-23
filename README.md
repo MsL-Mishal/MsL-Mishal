@@ -89,7 +89,7 @@
 
 ### ☁️ Cloud & Tools
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,postman,vscode,idea" />
 </a>
 
 </div>
